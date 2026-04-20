@@ -10,6 +10,6 @@
     "release-ci": "npm run build-prod && xmlui zip-dist"
   },
   "dependencies": {
-    "xmlui": "*"
+    "xmlui": "0.12.20"
   }
 }
